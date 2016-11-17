@@ -1,0 +1,22 @@
+C:\Users\James\documents\visual studio 2010\Projects\A4-JEnglish3\A4-JEnglish3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\documents\visual studio 2010\Projects\A4-JEnglish3\A4-JEnglish3\obj\x86\Debug\A4_JEnglish3.Form1.resources
+C:\Users\James\documents\visual studio 2010\Projects\A4-JEnglish3\A4-JEnglish3\obj\x86\Debug\A4_JEnglish3.Resources.resources
+C:\Users\James\documents\visual studio 2010\Projects\A4-JEnglish3\A4-JEnglish3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\James\documents\visual studio 2010\Projects\A4-JEnglish3\A4-JEnglish3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\James\documents\visual studio 2010\Projects\A4-JEnglish3\A4-JEnglish3\bin\Debug\A4-JEnglish3.exe
+C:\Users\James\documents\visual studio 2010\Projects\A4-JEnglish3\A4-JEnglish3\bin\Debug\A4-JEnglish3.pdb
+C:\Users\James\documents\visual studio 2010\Projects\A4-JEnglish3\A4-JEnglish3\bin\Debug\A4-JEnglish3.xml
+C:\Users\James\documents\visual studio 2010\Projects\A4-JEnglish3\A4-JEnglish3\obj\x86\Debug\A4-JEnglish3.exe
+C:\Users\James\documents\visual studio 2010\Projects\A4-JEnglish3\A4-JEnglish3\obj\x86\Debug\A4-JEnglish3.xml
+C:\Users\James\documents\visual studio 2010\Projects\A4-JEnglish3\A4-JEnglish3\obj\x86\Debug\A4-JEnglish3.pdb
+C:\Users\Public\James English\A4-JEnglish3\A4-JEnglish3\obj\x86\Debug\A4-JEnglish3.exe
+C:\Users\Public\James English\A4-JEnglish3\A4-JEnglish3\obj\x86\Debug\A4-JEnglish3.xml
+C:\Users\Public\James English\A4-JEnglish3\A4-JEnglish3\obj\x86\Debug\A4-JEnglish3.pdb
+C:\Users\Public\James English\A4-JEnglish3\A4-JEnglish3\bin\Debug\A4-JEnglish3.exe
+C:\Users\Public\James English\A4-JEnglish3\A4-JEnglish3\bin\Debug\A4-JEnglish3.pdb
+C:\Users\Public\James English\A4-JEnglish3\A4-JEnglish3\bin\Debug\A4-JEnglish3.xml
+C:\Users\Public\James English\A4-JEnglish3\A4-JEnglish3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\James English\A4-JEnglish3\A4-JEnglish3\obj\x86\Debug\A4_JEnglish3.Form1.resources
+C:\Users\Public\James English\A4-JEnglish3\A4-JEnglish3\obj\x86\Debug\A4_JEnglish3.Resources.resources
+C:\Users\Public\James English\A4-JEnglish3\A4-JEnglish3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Public\James English\A4-JEnglish3\A4-JEnglish3\obj\x86\Debug\GenerateResource.write.1.tlog
